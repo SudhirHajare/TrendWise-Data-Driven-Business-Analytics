@@ -196,8 +196,6 @@ TrendWise demonstrates how data analytics can help organizations:
 
 - GitHub: [SudhirHajare](https://github.com/SudhirHajare)
 - LinkedIn: [Sudhir Hajare](https://www.linkedin.com/in/sudhir-hajare-3ab187296/)
-- LeetCode: [Sudhirhajare01](https://leetcode.com/u/Sudhirhajare01/)
-
 ---
 
 **TrendWise — Turning Data into Decisions.**
